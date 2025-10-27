@@ -1,7 +1,7 @@
-# 💫 Hi 👋, I'm 𝓜𝓭 𝓢𝓪𝓯𝓲𝓴𝓾𝓵 𝓐𝓷𝓼𝓪𝓻𝓲
+# 💫 Hi 👋, I'm 𝘔𝘥 𝘚𝘢𝘧𝘪𝘬𝘶𝘭 𝘈𝘯𝘴𝘢𝘳𝘪
 **A passionate Full-Stack Web Development || Data Science || Sofware Development Engineer**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **mdsafikulansari0802@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Web Project
 - 🌱 **I’m currently learning:** Web Development & Machine Learning
